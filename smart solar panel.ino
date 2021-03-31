@@ -57,9 +57,9 @@ int diffazi = avgright - avgleft;
 #include <WiFi.h>
 #include <WiFiClient.h>
 #include <BlynkSimpleEsp32.h>
-char auth[] = "RXZiOgRa7OOF_lvjpnO2DyD_Fh5tIzHp";
-char ssid[] = "SSD_C3150";
-char pass[] = "ssdsolo1238";
+char auth[] = "";
+char ssid[] = "";
+char pass[] = "";
 
 #include <DHT.h>
 #define DHTPIN 4
